@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DA7FF53B-1887-4925-AD7E-C9BF821CC05E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsAzureServer.csproj">
+    <Files>
+      <File FileName="Views/Shared/_Layout.cshtml" Line="68" Column="8" />
+      <File FileName="Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="XamarinFormsAzureServer.csproj" Line="144" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinFormsAzureServer" expanded="True">
+            <Node name="XamarinFormsAzureServer" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsAzureServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
